@@ -1,0 +1,22 @@
+[
+    {
+        "question": "W którym roku zatonął Titanic?",
+        "answers": ["1917", "1913", "1912", "1985"],
+        "correct": "1912"
+    },
+    {
+        "question": "Jaka jest stolica Portugalii?",
+        "answers": ["Lizbona", "Madryt", "Hiszpania"],
+        "correct": "Lizbona"
+    },
+    {
+        "question": "Jaki jest najmniejszy ptak na świecie?",
+        "answers": ["Koliber", "Wrona", "Skowronek", "Pszczoła"],
+        "correct": "Koliber"
+    },
+    {
+        "question": "Jaka jest żywotność ważki?",
+        "answers": ["3 dni", "24 godziny", "12 godzin"],
+        "correct": "12 godzin"
+    }
+]
